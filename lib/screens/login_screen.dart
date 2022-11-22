@@ -22,7 +22,9 @@ class _LoginScreenState extends State<LoginScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+        title: Text('Sign in'),
+      ),
       body: ModalProgressHUD(
         inAsyncCall: showIndicator,
         child: Column(
