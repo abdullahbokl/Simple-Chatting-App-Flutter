@@ -1,16 +1,11 @@
-# hey_chat
 
-A new Flutter project.
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-22 at 22 11 51](https://user-images.githubusercontent.com/113001767/203411919-f9815154-b996-4f8b-ae78-74b6361fa993.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-22 at 22 08 17](https://user-images.githubusercontent.com/113001767/203411453-26838a15-b9e3-455e-9488-a00936e7ac9e.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-22 at 22 05 09](https://user-images.githubusercontent.com/113001767/203410984-01f56133-f157-441f-b693-943883499793.png)
